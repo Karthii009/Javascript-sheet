@@ -1,0 +1,7 @@
+var years = 3;                                        // number
+var name = "Codecrumbs" ;                             / string
+var name = {first:"Code", last: "crumbs"};            / object
+var isValid = false;                                  / boolean
+var technologies = ["HTML", "CSS", "JS" ] ;             // array
+var b; typeof b;                                   // undefined
+var b = null;                                      I value null
